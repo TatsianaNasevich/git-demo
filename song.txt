@@ -7,3 +7,5 @@ Last
 new line
 one more again
 -------------------
+some content
+and new
